@@ -27,3 +27,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Project description
+```
+using the news Api to feed this. Its a vuetify, vue and vuex simple news update application
+UI credit to: Rachid Sakara
+NewAPI: https://newsapi.org/
+```
